@@ -54,7 +54,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/thialms/thialms/output/snake.svg" alt="Snake animation" />
-
-###
