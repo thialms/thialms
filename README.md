@@ -1,8 +1,8 @@
-<h1 align="center">Hello World!, I'm Thiago, a Brazilian Developer :</h1>
+<h1 align="center">Hello World!, I'm Thiago, a Brazilian Full Stack Developer :</h1>
 
 ###
 
-<p align="center">I'm currently studying Multiplatform Software Development</p>
+<p align="center">I'm currently studying Cross-Platform Software Development at Fatec Praia Grande.</p>
 
 ###
 
