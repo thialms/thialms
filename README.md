@@ -1,5 +1,3 @@
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <h1 align="center">Hello World!, I'm Thiago, a Brazilian Full Stack Developer :</h1>
 
 ###
@@ -7,6 +5,8 @@
 <p align="center">I'm currently studying Cross-Platform Software Development at Fatec Praia Grande.</p>
 
 ###
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
